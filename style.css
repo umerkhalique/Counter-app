@@ -62,3 +62,8 @@ body {
     outline: none !important;
     box-shadow: none;
  }
+ .btn-hide{
+    position: absolute;
+    left: 615px;
+    top: 240px;
+ }
