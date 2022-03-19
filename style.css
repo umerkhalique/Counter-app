@@ -61,10 +61,7 @@ body {
      padding: 10px;
      color: white;
  }
- .btn:focus,.btn:active {
-    outline: none !important;
-    box-shadow: none;
- }
+
  /* .btn-hide{
     position: absolute;
     left: 615px;
