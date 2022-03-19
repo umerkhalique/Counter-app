@@ -9,7 +9,11 @@ body {
     margin: 150px 0px 50px 0px;
     font-weight: bold;
 }
-.second-h1 {
+.main-btn{
+    display: flex;
+    justify-content: center;
+}
+/* .second-h1 {
     display: flex;
     justify-content: center;
     margin: 0px;
@@ -17,22 +21,21 @@ body {
     align-items: center;
     font-size: 50px!important;
 
-}
-.main-btn {
+} */
+/* .main-btn {
     display: flex;
     justify-content: center;
     align-self: flex-start;
 
-}
-.btn{
+} */
+/* .btn{
     width: 350px;
     display: flex;
-    gap: 35px;
     padding: 0px;
     justify-content: space-between;
-}
+} */
 
-.pad {
+/* .pad {
     padding: 10px;
     margin: 10px;
     font-size: 20px;
@@ -43,7 +46,7 @@ body {
     align-items: center;
     width: 50px;
     height: 50px;
-}
+} */
 
  .center {
      display: flex;
@@ -62,8 +65,8 @@ body {
     outline: none !important;
     box-shadow: none;
  }
- .btn-hide{
+ /* .btn-hide{
     position: absolute;
     left: 615px;
     top: 240px;
- }
+ } */
