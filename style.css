@@ -12,6 +12,8 @@ body {
 .main-btn{
     display: flex;
     justify-content: center;
+    align-items: center;
+    height: 100px
 }
 /* .second-h1 {
     display: flex;
